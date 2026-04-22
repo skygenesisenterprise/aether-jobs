@@ -1,7 +1,7 @@
 {
   "name": "aether-jobs",
   "version": "0.1.0",
-  "description": "Modern job application foundation with complete authentication system and monorepo architecture",
+  "description": "Aether Jobs is a enterprise career platform that transforms CVs into structured, editable data, enabling transparent, secure, and bias-aware hiring workflows from day one.",
   "private": true,
   "type": "module",
   "workspaces": [
@@ -71,12 +71,14 @@
   "packageManager": "pnpm@9.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skygenesisenterprise/aether-mailer.git"
+    "url": "https://github.com/skygenesisenterprise/aether-jobs.git"
   },
   "keywords": [
-    "mail-server",
-    "email",
-    "smtp",
+    "career-platform",
+    "jobs",
+    "hiring",
+    "cv",
+    "resume",
     "imap",
     "nextjs",
     "express",
@@ -93,9 +95,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skygenesisenterprise/aether-mailer/issues"
+    "url": "https://github.com/skygenesisenterprise/aether-jobs/issues"
   },
-  "homepage": "https://github.com/skygenesisenterprise/aether-mailer#readme",
+  "homepage": "https://github.com/skygenesisenterprise/aether-jobs#readme",
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
       "eslint --fix",
