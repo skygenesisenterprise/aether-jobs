@@ -1,7 +1,7 @@
 {
-  "name": "aether-mailer",
+  "name": "aether-jobs",
   "version": "0.1.0",
-  "description": "Modern mail server foundation with complete authentication system and monorepo architecture",
+  "description": "Modern job application foundation with complete authentication system and monorepo architecture",
   "private": true,
   "type": "module",
   "workspaces": [
